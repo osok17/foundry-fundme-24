@@ -1,0 +1,8 @@
+fundmetest:testaddfunder() (gas: 100134)
+fundmetest:testfundupdate() (gas: 99840)
+fundmetest:testifethenough() (gas: 23003)
+fundmetest:testmindollar() (gas: 8414)
+fundmetest:testonlyownercanwithdraw() (gas: 99981)
+fundmetest:testwithdrawmultiplefunder() (gas: 442629)
+fundmetest:testwithdrawmultiplefundercheaper() (gas: 441894)
+fundmetest:testwithdrawsinglefunder() (gas: 85298)
